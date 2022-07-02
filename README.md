@@ -1,10 +1,12 @@
 ## Hi, Everyone!
 I love programming. Below are some of my projects:
 
-- [linq4c](https://github.com/haifenghuang/linq4c)
-- [monkey](https://github.com/haifenghuang/monkey)
-- [magpie](https://github.com/haifenghuang/magpie)
-- [ExpressionParser](https://github.com/haifenghuang/ExpressionParser)
+- [magpie-language-design](https://github.com/haifenghuang/magpie-language-design) 语言设计教程，献给想学语言设计的朋友
+- [linq4c](https://github.com/haifenghuang/linq4c) C语言的linq
+- [monkey](https://github.com/haifenghuang/monkey) monkey脚本语言
+- [magpie](https://github.com/haifenghuang/magpie) magpie脚本语言（monkey脚本语言的扩展）
+- [ExpressionParser](https://github.com/haifenghuang/ExpressionParser) C语言的表达式解析
+
 
 <p align="center">
 <a href="https://github.com/haifenghuang">
