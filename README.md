@@ -12,5 +12,7 @@ I love programming. Below are some of my projects:
 <a href="https://github.com/haifenghuang">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haifenghuang&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haifenghuang&layout=compact&langs_count=8&theme=gruvbox"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haifenghuang&theme=gruvbox"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haifenghuang&theme=gruvbox"/>
 </a>
 </p>
