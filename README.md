@@ -5,6 +5,7 @@ I love programming. Below are some of my projects:
 - [linq4c](https://github.com/haifenghuang/linq4c) C语言的linq
 - [monkey](https://github.com/haifenghuang/monkey) monkey脚本语言
 - [magpie](https://github.com/haifenghuang/magpie) magpie脚本语言（monkey脚本语言的扩展）
+- [pprint4c](https://github.com/haifenghuang/pprint4c) 在运行期打印C结构内容
 - [ExpressionParser](https://github.com/haifenghuang/ExpressionParser) C语言的表达式解析
 
 
