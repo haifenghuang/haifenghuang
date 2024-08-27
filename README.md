@@ -1,4 +1,3 @@
-## Hi, Everyone!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=38CFF7&background=40CECB00&width=435&height=35&lines=Hi%2C+Everyone!;I'm+Huanghaifeng.;You+can+call+me+Mike.;I+love+programming!)](https://git.io/typing-svg)
 
 Below are some of my projects:
