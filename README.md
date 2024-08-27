@@ -1,4 +1,5 @@
 ## Hi, Everyone!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Huanghaifeng.;You+can+call+me+Mike.;I+love+programming!)](https://git.io/typing-svg)
 I love programming. Below are some of my projects:
 - [XMLParser](https://github.com/haifenghuang/XMLParser) C语言的XML处理
 - [magpie-language-design](https://github.com/haifenghuang/magpie-language-design) 语言设计教程，献给想学语言设计的朋友
